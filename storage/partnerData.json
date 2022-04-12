@@ -1,0 +1,86 @@
+{
+  "partnerName": "The Soho London Independent Film Festival",
+  "partnerSlug": "soho-film-festival",
+  "partnerType": "Film Festival",
+  "genres":["Sci-Fi","Documentary", "Thriller"],
+  "partnerLogo": "https://dev.cinnect.io/images/partners/soho-film-festival/logo.png",
+  "partnerDescription": "SohoLIFF is a ground-breaking film festival bringing together new and seasoned filmmakers in one space – a showcase and networking event where ideas can be shared, and advice proffered. Including drama, documentary, comedy, animation, experimental, horror, student and social impact categories… it is open to everyone.",
+  "partnerLocation": "London, UK",
+  "movies": [
+    {
+      "title": "(K)nox: The Rob Knox Story",
+      "description": "A young actor is stabbed to death just days after filming his big break in the Harry Potter franchise. ",
+      "posterFile": "https://dev.cinnect.io/images/partners/soho-film-festival/The%20Rob%20Knox%20Story%20%20-%20Poster.jpg",
+      "year": 2021,
+      "slug": "knox-the-rob-knox-story",
+      "contentType": "Short Film",
+      "genres": [
+        "Documentary",
+        "Knife Crime",
+        "Harry Potter"
+      ]
+    },
+    {
+      "title": "3:35 to Boston",
+      "description": "A military wife, struggling to balance all the pieces of her life, breaks down when she realizes that the life she had planned for herself may not be possible.",
+      "posterFile": "https://dev.cinnect.io/images/partners/soho-film-festival/335-to-boston.jpg",
+      "year": 2021,
+      "contentType": "Short Film",
+      "genres": [
+        "Short",
+        "Drama",
+        "Military"
+      ]
+    },
+    {
+      "title": "The Day I Became A British Citizen",
+      "description": "Brexit and the pandemic are just the latest hurdles for migrants around the world. This documentary explores the naturalization process for UK-based migrants in lockdown.",
+      "posterFile": "https://dev.cinnect.io/images/partners/soho-film-festival/The-Day-I-Became-A-British-Citizen.jpg",
+      "year": 2021,
+      "contentType": "Short Film",
+      "genres": [
+        "Documentary",
+        "British",
+        "Immigration"
+      ]
+    },
+    {
+      "title": "51 States",
+      "description": "In an all too possible future, a Sikh wife and mother risks execution in the fight to be reunited with her family",
+      "posterFile": "https://dev.cinnect.io/images/partners/soho-film-festival/51 States.jpg",
+      "year": 2021,
+      "contentType": "Short Film",
+      "genres": [
+        "Dystopian",
+        "Sci-Fi",
+        "Sikh"
+      ]
+    }
+  ],
+  "members": [
+    {
+      "name": "Liz Farahadi",
+      "title": "Festival Director",
+      "description": "Liz runs and oversees the development and the day to day operations of the Soho London Independent Film Festival, heading up each department. She is also a Director and founder of the festival",
+      "photo": "https://dev.cinnect.io/images/partners/soho-film-festival/p1.jpg"
+    },
+    {
+      "name": "Stephen Kearney",
+      "title": "Festival Director",
+      "description": "Stephen is an actor, writer, musician and producer. In 2019 he starred in “Our Father” by Jacob Watkinson, which has been nominated in 5 festivals for acting and direction.",
+      "photo": "https://dev.cinnect.io/images/partners/soho-film-festival/p2.jpg"
+    },
+    {
+      "name": "Julia Olsen",
+      "title": "Festival Director",
+      "description": "Julia is a screenplay writer and executive producer. She is a founder of the festival because of her expertise and experience in community engagement and the impact arts.",
+      "photo": "https://dev.cinnect.io/images/partners/soho-film-festival/p3.jpg"
+    },
+    {
+      "name": "Charlotte Atkinson",
+      "title": "Press & Media",
+      "description": "Charlotte runs press and communications for SohoLIFF, joining the team in 2021",
+      "photo": "https://dev.cinnect.io/images/partners/soho-film-festival/p4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+:root {
+    --main-purple: #322E81;
+    --main-blue: #1280A0;
+}
+
+.text-main-purple {
+    color: var(--main-purple) !important;
+}
+
+.text-main-blue {
+    color: var(--main-blue) !important;
+}
+
+#header {
+    top: -25px;
+}
+
+#header[data-transparent="true"]+.inspiro-slider {
+    top: -125px;
+}
+
+.logo-default img {
+    height: 3rem;
+    padding-left: 2rem;
+}
+
+.keymessage {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.keymessage__image {
+    width: 275px;
+    height: 275px;
+    object-fit: cover;
+}
+.keymessage__text {
+    height: 275px;
+}
+
+.keymessage__text h4 {
+    font-size: 2rem;
+}
+
+.keymessage a {
+    background-color: var(--main-purple);
+    top: 5rem;
+}
+
+@media only screen and (min-width: 1024px) {
+    .keymessage {
+        width: 75%;
+    }
+    .logo-default img {
+        height: 5rem;
+        padding-left: 2rem;
+    }
+
+    .inspiro-slider {
+        height: 90vh;
+    }
+
+}
